@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/lastlistitem.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/lastlistitem.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/first.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/first.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/popup_list_row.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/popup_list_row.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/mbwebview.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/mbwebview.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/history_listitem.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/history_listitem.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/footer.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/footer.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/info.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/info.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/listitem.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/listitem.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/tabmain.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/tabmain.xml"
+    },
+    {
+        "merged": "/Users/esos/StudioProjects/MobiBench/app/build/intermediates/res/merged/debug/layout/custome_title.xml",
+        "source": "/Users/esos/StudioProjects/MobiBench/app/src/main/res/layout/custome_title.xml"
+    }
+]
